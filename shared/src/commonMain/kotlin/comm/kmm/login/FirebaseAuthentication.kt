@@ -7,6 +7,7 @@ import dev.gitlive.firebase.auth.auth
  * Firebase Auth test
  */
 class FirebaseAuthentication {
+
     suspend fun loginWithEmailAndPass(
         email: String,
         password: String

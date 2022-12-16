@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="406453423630273620" name="close_drawer">"關閉導覽選單"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"關閉功能表"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"啟用"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"您必須啟用 Google Play 服務，才能執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"啟用 Google Play 服務"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"安裝"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"您的裝置並未安裝 Google Play 服務，因此無法執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"取得 Google Play 服務"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play 服務可用性"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play 服務發生錯誤"</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」無法存取 Google Play 服務，請再試一次。</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"您的裝置不支援 Google Play 服務，因此無法執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"您必須更新 Google Play 服務，才能執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"更新 Google Play 服務"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」所需的 Google Play 服務正在更新。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"必須使用新版 Google Play 服務。該服務稍後就會自動更新。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"在手機上開啟"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"登入"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"使用 Google 帳戶登入"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"輸入內容無效"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"彈出式視窗"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"下拉式選單"</string>
+    <string msgid="6827826412747255547" name="in_progress">"處理中"</string>
+    <string msgid="2486394087603402002" name="indeterminate">"沒有勾選也沒有取消勾選"</string>
+    <string msgid="542007171693138492" name="navigation_menu">"導覽選單"</string>
+    <string msgid="6610465462668679431" name="not_selected">"未選取"</string>
+    <string msgid="875452955155264703" name="off">"已關閉"</string>
+    <string msgid="8655164131929253426" name="on">"已開啟"</string>
+    <string msgid="5941395253238309765" name="range_end">"範圍終點"</string>
+    <string msgid="7097486360902471446" name="range_start">"範圍起點"</string>
+    <string msgid="6043586758067023" name="selected">"已選取"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="1672349317127674378" name="tab">"Tab 鍵"</string>
+    <string msgid="5946805113151406391" name="template_percent">"百分之 <ns1:g id="PERCENTAGE">%1$d</ns1:g>。"</string>
+</resources>

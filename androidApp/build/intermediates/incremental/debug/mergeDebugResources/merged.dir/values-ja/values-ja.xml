@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="406453423630273620" name="close_drawer">"ナビゲーションメニューを閉じる"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"シートを閉じる"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"有効にする"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行には、Google Play開発者サービスの有効化が必要です。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play開発者サービスの有効化"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"インストール"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスにはインストールされていません。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play開発者サービスの入手"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play 開発者サービスの利用"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play開発者サービスのエラー"</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」の実行には Google Play 開発者サービスが必要ですが、お使いのデバイスではサポートされていません。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスの更新が必要です。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play開発者サービスの更新"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"スマートフォンで開く"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ログイン"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Googleにログイン"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"入力値が無効です"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"ポップアップウィンドウ"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"プルダウン メニュー"</string>
+    <string msgid="6827826412747255547" name="in_progress">"処理しています"</string>
+    <string msgid="2486394087603402002" name="indeterminate">"オンでもオフでもありません"</string>
+    <string msgid="542007171693138492" name="navigation_menu">"ナビゲーションメニュー"</string>
+    <string msgid="6610465462668679431" name="not_selected">"未選択"</string>
+    <string msgid="875452955155264703" name="off">"オフ"</string>
+    <string msgid="8655164131929253426" name="on">"オン"</string>
+    <string msgid="5941395253238309765" name="range_end">"範囲の末尾"</string>
+    <string msgid="7097486360902471446" name="range_start">"範囲の先頭"</string>
+    <string msgid="6043586758067023" name="selected">"選択済み"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="1672349317127674378" name="tab">"タブ"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g>パーセント。"</string>
+</resources>

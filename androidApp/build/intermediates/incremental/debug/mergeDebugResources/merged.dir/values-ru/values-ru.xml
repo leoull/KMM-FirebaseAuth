@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="406453423630273620" name="close_drawer">"Закрыть меню навигации"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Закрыть лист"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется включить сервисы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Включите сервисы Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установите сервисы Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Доступность сервисов Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите сервисы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Обновите сервисы Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Войти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Войти через аккаунт Google"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Неправильный ввод"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Всплывающее окно"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Раскрывающееся меню"</string>
+    <string msgid="6827826412747255547" name="in_progress">"Выполняется"</string>
+    <string msgid="2486394087603402002" name="indeterminate">"Флажок не установлен и не снят"</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Меню навигации"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Не выбрано"</string>
+    <string msgid="875452955155264703" name="off">"Отключено"</string>
+    <string msgid="8655164131929253426" name="on">"Включено"</string>
+    <string msgid="5941395253238309765" name="range_end">"Конец диапазона"</string>
+    <string msgid="7097486360902471446" name="range_start">"Начало диапазона"</string>
+    <string msgid="6043586758067023" name="selected">"Выбрано"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string msgid="1672349317127674378" name="tab">"Вкладка"</string>
+    <string msgid="5946805113151406391" name="template_percent">"Процентов: <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
+</resources>

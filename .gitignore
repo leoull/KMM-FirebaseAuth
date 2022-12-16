@@ -21,4 +21,5 @@ firebase-debug.log
 ui-debug.log
 *.vscode/
 shared/build/
+androidApp/
 *.xcuserstate

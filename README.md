@@ -45,12 +45,12 @@ Undefined symbol: _OBJC_CLASS_$_FIRApp
 
 1. [This tutorial](https://kotlinlang.org/docs/multiplatform-mobile-integrate-in-existing-app.html) lists the ff to link iOS to the shared framework:
 ```kt
-   1. Add the ff script on the iOS buildphase:
+   1. Add the ff script to buildphas:
       cd "$SRCROOT/.."
       ./gradlew :shared:embedAndSignAppleFrameworkForXcode
-   2. Add the following path the Framework serach:
+   2. Add the following path to `Framework search`:
       $(SRCROOT)/../shared/build/xcode-frameworks/$(CONFIGURATION)/$(SDK_NAME)
-   3. Add the ff on "Other Linker Flags":
+   3. Add the ff to Other Linker Flags`:
       $(inherited) -framework shared
 ```
 I confirmed the above steps are configured. I'ts configured since I created KMM project from scratched
